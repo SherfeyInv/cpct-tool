@@ -4,7 +4,7 @@
 # Python Docker Image
     # Docker Hub: https://hub.docker.com/_/python
     # Tag: 3.9
-FROM python:3.9
+FROM python:3.14.1
 
 # Production Branch of fpkilint: 
 # Get clone of repo from standard fpkilint repo, put into gsa folder
